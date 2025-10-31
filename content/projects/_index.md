@@ -35,25 +35,5 @@ Beijing Normal University | In-campus Project | Python, PyTorch, OpenCV, NumPy
 Chinese Academy of Science | Research Assistant | Python, PyTorch, NumPy, MATLAB, Linux
 - Developed a spectrogram-based audio classification pipeline with audio preprocessing, augmentation (time/frequency masking), and Mel-spectrogram conversion (Librosa), achieving high reliability for music identification tasks.
 - Standardized input formats and optimized training pipelines to increase model stability and generalization (achieved ≈97% accuracy on held-out test sets).
----
-title: "Projects"
----
 
-<!-- Page-specific styling: slightly smaller text and de-emphasized dates; match Resume heading sizes -->
-<style>
-.post-content { font-size: 0.95rem; line-height: 1.45; }
-.post-content h1, .post-content h2 { font-size: 1.05rem; margin-top: 0.8rem; }
-.post-content .meta-date { font-size: 0.9rem; color: var(--secondary); }
-</style>
 
-## AI-Driven Travel Planner with Visa & Safety Intelligence
-<span class="meta-date">Sep 2025 – Nov 2025</span>
-
-An LLM-powered planner that aligns routes with **visa** constraints and **safety indices**.  
-- Prompt design + JSON parsing for detailed itineraries and budgets.  
-- Deployed on **Heroku** for reliability.
-
-## Ensemble Learning for Explainable Heart Disease Prediction
-<span class="meta-date">Sep 2024 – Dec 2024</span>
-
-An interpretable pipeline combining **SVM**, **XGBoost**, **LightGBM**, and **Random Forest** for risk assessment and lifestyle suggestions.
