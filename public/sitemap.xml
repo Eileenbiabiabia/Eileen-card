@@ -4,6 +4,10 @@
   <url>
     <loc>http://localhost:1313/</loc>
   </url><url>
+    <loc>http://localhost:1313/contact/_index_tmp/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/_index_tmp/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
